@@ -13,6 +13,8 @@
       preciousMaterialArmorEnabled: "preciousMaterialArmorEnabled",
       weaponFamiliarityEnabled: "weaponFamiliarityEnabled",
       energyResistantRunesEnabled: "energyResistantRunesEnabled",
+      mythicMagicEnabled: "mythicMagicEnabled",
+      weaponRuneCompatibilityEnabled: "weaponRuneCompatibilityEnabled",
       frightenedRecoveryEnabled: "frightenedRecoveryEnabled",
       oathOfTheDefenderEnabled: "oathOfTheDefenderEnabled",
       criticalDeckTranslationEnabled: "criticalDeckTranslationEnabled",

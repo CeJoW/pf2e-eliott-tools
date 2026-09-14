@@ -32,6 +32,8 @@
     "scripts/features/precious-material-armor.js",
     "scripts/features/weapon-familiarity.js",
     "scripts/features/energy-resistant-runes.js",
+    "scripts/features/mythic-magic.js",
+    "scripts/features/weapon-rune-compatibility.js",
     "scripts/features/frightened-recovery.js",
     "scripts/features/regalia-intensify.js",
     "scripts/features/champion/oath-of-the-defender.js",
